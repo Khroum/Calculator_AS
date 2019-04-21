@@ -18,6 +18,7 @@
         android:textColor="@color/actionButton"
         android:textSize="65sp"
         app:layout_constraintBottom_toTopOf="@+id/tableLayout"
+        tools:fontFamily="serif-monospace"
         tools:layout_editor_absoluteX="0dp" />
 
     <TableLayout
